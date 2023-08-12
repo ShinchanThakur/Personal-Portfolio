@@ -39,3 +39,8 @@ Following features are available in this web app -
 ## To Do
 
 Following things can be done (pending) - 
+
+## Credits - 
+
+1. Video - [React Responsive Portfolio Website Tutorial](https://youtu.be/CKAn5dCK6RE)
+2. Youtube channel - [ZAINKEEPSCODE](https://www.youtube.com/@ZAINKEEPSCODE)
